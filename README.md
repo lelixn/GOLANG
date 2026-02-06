@@ -23,5 +23,17 @@ Install Go on your machine:
 
 ```bash
 go version
+```
+Build the Go Server
+```
+go build -o my-server
+./my-server
+```
 
+🛠️ Project Usage
+
+Use this repository to:
+-Learn how to structure Go projects,
+-Build REST APIs using Go,
+-Extend functionality with more routes and handlers
 
